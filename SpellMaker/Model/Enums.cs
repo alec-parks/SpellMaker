@@ -1,8 +1,8 @@
-﻿using System;
-namespace SpellMaker
+﻿namespace SpellMaker
 {
-	public enum EmptyEnumeration
+	public enum ElementType
 	{
+		Fire
 	}
 }
 
