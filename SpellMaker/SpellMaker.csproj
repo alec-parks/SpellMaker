@@ -74,6 +74,7 @@
     <Compile Include="Model\Spell.cs" />
     <Compile Include="Model\Enums.cs" />
     <Compile Include="ViewModel\SpellViewModel.cs" />
+    <Compile Include="ViewModel\ViewModelLocator.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Model\" />
